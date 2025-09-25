@@ -18,5 +18,5 @@ This is a classic 4x4 memory card game built with React.
 ## Project Structure
 
 -   `/public/images/`: Contains the 8 unique images for the game cards.
--   `/src/components/memory-game.jsx`: The main component containing all game logic and styling.
+-   `/src/memory-game.js`: The main component containing all game logic and styling.
 -   `/src/App.jsx`: The main app component that renders the game.
